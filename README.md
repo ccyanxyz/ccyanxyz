@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-Looking for a part-time job.  
+  
 Contact: ccyanxyz@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=ccyanxyz&count_private=true)
