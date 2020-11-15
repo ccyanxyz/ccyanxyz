@@ -3,7 +3,7 @@
 Contact: ccyanxyz@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=ccyanxyz&count_private=true)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ccyanxyz&hide=jupyter%20notebook,html,css,javascript,c&layout=compact)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ccyanxyz&hide=jupyter%20notebook,html,javascript&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=ccyanxyz)
 
 
